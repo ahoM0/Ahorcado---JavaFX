@@ -1,0 +1,4 @@
+0;partidatester;noborrar;noborrar;0;nulo
+1;billy;moha;cas;555;moha
+2;billy;moha;cargo;555;moha
+3;billy;moha;amor;55;moha
